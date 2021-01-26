@@ -18,7 +18,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "url": "https://github.com/eightbitvillain/fvtt-beyondthefairytree",
-  "manifest": "https://raw.githubusercontent.com/eightbitvillain/fvtt-beyondthefairytree/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/eightbitvillain/fvtt-beyondthefairytree/main/package.json",
   "download": "https://github.com/eightbitvillain/fvtt-beyondthefairytree/archive/main.zip",
   "license": "LICENSE.txt"
 }
