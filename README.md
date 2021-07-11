@@ -1,5 +1,5 @@
 
-# Beyond The Fairy Tree v0.0.1
+# Beneath The Fairy Tree v0.0.1
 
 **Author(s)**: EightBitVillain, TheGreatJonsby, Dope M.S.R.
 
@@ -8,7 +8,7 @@
 ## Description
 
 ---
-A FoundryVTT game system for 'Beyond The Fairy Tree'.
+A FoundryVTT game system for 'Beneath The Fairy Tree'.
 
 ## Features
 

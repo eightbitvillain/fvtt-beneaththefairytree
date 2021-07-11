@@ -6,5 +6,5 @@
  * Init hook.
  */
 Hooks.once("init", async function () {
-  console.log(`BeyondTheFairyTree | Initializing the Beyond The Fairy Tree System`);
+  console.log(`BeneathTheFairyTree | Initializing the Beneath The Fairy Tree System`);
 });
