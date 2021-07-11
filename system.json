@@ -2,7 +2,7 @@
   "name": "beneaththefairytree",
   "title": "Beneath The Fairy Tree",
   "description": "A FoundryVTT game system for Beneath The Fairy Tree.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.8.8",
   "templateVersion": 2,
